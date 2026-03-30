@@ -1,5 +1,7 @@
 # Sales Performance Analysis
 
+#simulated sales data
+
 ## Overview
 This project analyzes simulated sales data to uncover revenue trends across regions and products.
 
